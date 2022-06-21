@@ -3,14 +3,14 @@
     "eslint:recommended",
     "airbnb"
   ],
-	"env": {
-		"node": true,
-		"es6": true
-	},
-	"parserOptions": {
-		"ecmaVersion": 2021
-	},
-	"rules": {
+  "env": {
+    "node": true,
+    "es6": true
+  },
+  "parserOptions": {
+    "ecmaVersion": 2021
+  },
+  "rules": {
 
-	}
+  }
 }
